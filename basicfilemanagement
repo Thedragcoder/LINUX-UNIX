@@ -1,0 +1,12 @@
+Linux commands for basic file management
+PWD : Prints the current directory you are in 
+CD : change directory 
+ls : list the content inside of a directory 
+tree : shows all the directories and files in tree structure
+mkdir : creates a directory 
+rmdir : removes a directory
+cp : copy 
+mv : move or rename file 
+rm : remove or delete 
+rm -r : removes non empty directories
+
